@@ -55,3 +55,5 @@ Project Insights:
 
 Screenshots Of Project : (https://github.com/Meenal-Gupta02/Credit-Card-Financial-Dashboard/blob/main/Credit_Card_Transaction_Report.png)
 
+(https://github.com/Meenal-Gupta02/Credit-Card-Financial-Dashboard/blob/main/Credit_Card_Customer_Report.png)
+

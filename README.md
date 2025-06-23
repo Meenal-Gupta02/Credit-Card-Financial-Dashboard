@@ -15,7 +15,7 @@
 
 ## Features / Highlights:
 Credit Card Customer Report:
-- Revenue segmentation by:
+ Revenue segmentation by:
 - Job Role (e.g., Businessman, White-collar)
 - Age Group
 - Income Group
@@ -28,7 +28,7 @@ Credit Card Customer Report:
 - CCS (Customer Credit Score) insights
 
 Credit Card Transaction Report:
-- Revenue & transaction count analysis by:
+ Revenue & transaction count analysis by:
 - Card Category (Blue, Silver, Gold, Platinum)
 - Expenditure Type (Bills, Entertainment, Travel, etc.)
 - Usage Method (Swipe, Chip, Online)

@@ -14,8 +14,7 @@
 - SQL : Create table in SQL and Import csv file into SQL
 
 ## Features / Highlights:
-Credit Card Customer Report:
- Revenue segmentation by:
+Credit Card Customer Report [Revenue segmentation by]:
 - Job Role (e.g., Businessman, White-collar)
 - Age Group
 - Income Group

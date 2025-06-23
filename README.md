@@ -51,7 +51,7 @@ Credit Card Transaction Report [Revenue & transaction count analysis by] :
 -	Total transaction amount is 45M
 -	Male customers are contributing more in revenue : 30M, Female : 25M
 
-##Screenshots Of Project : 
+## Screenshots Of Project : 
 (https://github.com/Meenal-Gupta02/Credit-Card-Financial-Dashboard/blob/main/Credit_Card_Transaction_Report.png)
 
 (https://github.com/Meenal-Gupta02/Credit-Card-Financial-Dashboard/blob/main/Credit_Card_Customer_Report.png)

@@ -1,31 +1,31 @@
-Project Name : Credit Card Financial Dashboard
+# Credit Card Financial Dashboard
 
-Description Of Project:
-•	Developed an interactive dashboard using transaction and customer data from a SQL database to provide real-time insights.
-•	Streamlined data processing & analysis to monitor key performance metrics and trends.
-•	Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
-• The Credit Card Financial Dashboard is a powerful BI tool designed to analyze customer behavior, card usage patterns, and  revenue insights.
+## Description Of Project:
+-	Developed an interactive dashboard using transaction and customer data from a SQL database to provide real-time insights.
+- Streamlined data processing & analysis to monitor key performance metrics and trends.
+- Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
+- The Credit Card Financial Dashboard is a powerful BI tool designed to analyze customer behavior, card usage patterns, and  revenue insights.
 
-Tech Stack:
-•	Power BI: For creating interactive visualizations and dashboards
-•	MS Excel / CSV: For structured data input and transformation
-•	DAX (Data Analysis Expressions): For measures and KPIs
-•	Power Query: For data cleaning and transformation
-• SQL : Create table in SQL and Import csv file into SQL
+## Tech Stack:
+- Power BI: For creating interactive visualizations and dashboards
+- MS Excel / CSV: For structured data input and transformation
+- DAX (Data Analysis Expressions): For measures and KPIs
+- Power Query: For data cleaning and transformation
+- SQL : Create table in SQL and Import csv file into SQL
 
-Features / Highlights:
+## Features / Highlights:
 Credit Card Customer Report:
-•	Revenue segmentation by:
--Job Role (e.g., Businessman, White-collar)
--Age Group
--Income Group
--Education Level
--Dependent Count
--Marital Status
--Gender-based revenue trends
--Weekly revenue tracking
--Top-performing states
--CCS (Customer Credit Score) insights
+- Revenue segmentation by:
+- Job Role (e.g., Businessman, White-collar)
+- Age Group
+- Income Group
+- Education Level
+- Dependent Count
+- Marital Status
+- Gender-based revenue trends
+- Weekly revenue tracking
+- Top-performing states
+- CCS (Customer Credit Score) insights
 
 Credit Card Transaction Report:
 •	Revenue & transaction count analysis by:
